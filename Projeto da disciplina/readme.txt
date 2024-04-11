@@ -4,7 +4,7 @@ Definições:
 
 
 Grupo de desenvolvedores
--João PEdro Bianchini
+-João Pedro Bianchini
 -Luana Wu
 -Pedro Henrique Novicov
 
