@@ -8,7 +8,6 @@ export default function Pagina1() {
       <Menu />
       <h1>Fórum online</h1>
 
-      {/* Exemplo de fórum */}
       <div
         style={{
           marginTop: "20px",
