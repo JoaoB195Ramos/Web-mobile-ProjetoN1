@@ -9,7 +9,7 @@ import SocialLinks from "./components/SocialLinks";
 import FAQ from "./components/FAQ";
 import Apoio from "./components/Apoio";
 import Login from "./components/Login";
-import Menu from "./components/menu"; // Ajuste aqui para importar o Menu correto
+import Menu from "./components/menu"; 
 
 function App() {
   return (
