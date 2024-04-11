@@ -19,7 +19,7 @@ export default function Menu() {
         </li>
         <li>
           {" "}
-          <Link href="/pagina3">Perfil</Link> {/* Adicionado Página 3 */}
+          <Link href="/pagina3">Perfil</Link> 
         </li>
       </ul>
     </nav>
