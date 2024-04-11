@@ -12,7 +12,7 @@ const Forum = () => {
           </p>
         </div>
         <div className="forum-content">
-          {/* Exemplo de postagem no fórum */}
+         
           <div className="forum-post">
             <h3>Importância da Saúde Mental para Alunos Voluntários</h3>
             <p>
@@ -20,7 +20,7 @@ const Forum = () => {
               no Mackenzie?
             </p>
           </div>
-          {/* Outra postagem */}
+          
           <div className="forum-post">
             <h3>Estratégias para Promover o Bem-Estar</h3>
             <p>
