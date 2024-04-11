@@ -7,7 +7,7 @@ const SocialLinks = () => {
         <i className="fa fa-instagram"></i>
         <span>Instagram</span>
       </a>
-      {/* Adicione outros links de redes sociais aqui, se necessário */}
+      
     </div>
   );
 };
