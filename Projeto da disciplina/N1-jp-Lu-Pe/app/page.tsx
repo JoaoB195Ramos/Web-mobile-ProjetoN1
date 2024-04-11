@@ -1,4 +1,3 @@
-// src/App.js
 import "./styles.css";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
