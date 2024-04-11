@@ -37,7 +37,7 @@
 .form button:hover {
   background-color: #0056b3;
 }
-/* globals.css */
+
 img.forum-icon {
   width: 30px;
   height: 30px;
@@ -45,7 +45,7 @@ img.forum-icon {
   border-radius: 50%;
 }
 
-/* globals.css */
+
 .container {
   max-width: 800px;
   margin: 20px auto;
