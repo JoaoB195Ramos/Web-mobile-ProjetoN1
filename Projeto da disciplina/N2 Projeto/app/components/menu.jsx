@@ -21,6 +21,10 @@ export default function Menu() {
           {" "}
           <Link href="/pagina3">Perfil</Link>
         </li>
+        <li>
+          {" "}
+          <Link href="/pagina4">Dados Locais</Link>
+        </li>
       </ul>
     </nav>
   );
